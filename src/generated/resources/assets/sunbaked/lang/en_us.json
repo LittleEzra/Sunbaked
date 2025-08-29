@@ -1,0 +1,22 @@
+{
+  "block.artistry.aurum_wall_hanging_sign": "Aurum Wall Hanging Sign",
+  "block.artistry.aurum_wall_sign": "Aurum Wall Sign",
+  "block.sunbaked.aurum_button": "Aurum Button",
+  "block.sunbaked.aurum_door": "Aurum Door",
+  "block.sunbaked.aurum_fence": "Aurum Fence",
+  "block.sunbaked.aurum_fence_gate": "Aurum Fence Gate",
+  "block.sunbaked.aurum_hanging_sign": "Aurum Hanging Sign",
+  "block.sunbaked.aurum_leaves": "Aurum Leaves",
+  "block.sunbaked.aurum_log": "Aurum Log",
+  "block.sunbaked.aurum_planks": "Aurum Planks",
+  "block.sunbaked.aurum_pressure_plate": "Aurum Pressure Plate",
+  "block.sunbaked.aurum_sign": "Aurum Sign",
+  "block.sunbaked.aurum_slab": "Aurum Slab",
+  "block.sunbaked.aurum_stairs": "Aurum Stairs",
+  "block.sunbaked.aurum_trapdoor": "Aurum Trapdoor",
+  "block.sunbaked.aurum_wood": "Aurum Wood",
+  "block.sunbaked.stripped_aurum_log": "Stripped Aurum Log",
+  "block.sunbaked.stripped_aurum_wood": "Stripped Aurum Wood",
+  "item.sunbaked.crisp_apple": "Crisp Apple",
+  "itemGroup.sunbaked.base": "Sunbaked"
+}

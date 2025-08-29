@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "sunbaked:block/stripped_aurum_log_top",
+    "side": "sunbaked:block/stripped_aurum_log"
+  }
+}

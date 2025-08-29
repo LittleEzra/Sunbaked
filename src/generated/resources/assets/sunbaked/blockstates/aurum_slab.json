@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sunbaked:block/aurum_slab"
+    },
+    "type=double": {
+      "model": "sunbaked:block/aurum_planks"
+    },
+    "type=top": {
+      "model": "sunbaked:block/aurum_slab_top"
+    }
+  }
+}

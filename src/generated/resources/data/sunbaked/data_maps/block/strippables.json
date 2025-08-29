@@ -1,0 +1,10 @@
+{
+  "values": {
+    "sunbaked:aurum_log": {
+      "stripped": "sunbaked:stripped_aurum_log"
+    },
+    "sunbaked:aurum_wood": {
+      "stripped": "sunbaked:stripped_aurum_wood"
+    }
+  }
+}
